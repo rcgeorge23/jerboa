@@ -1,2 +1,2 @@
 # jerboa
-Simple, secure and high performance CMS for design agencies
+Simple and secure CMS, built using Scala, Dropwizard, AngularJS and Cassandra
