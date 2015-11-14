@@ -1,2 +1,2 @@
 # jerboa
-Simple, secure and highly performance CMS for design agencies
+Simple, secure and high performance CMS for design agencies
